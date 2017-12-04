@@ -1,0 +1,7 @@
+.info-card {
+    background-color: rgba(90, 90, 92, 0.8);
+    height: 50vh;
+    width: 100vw;
+    position: absolute;
+    top: 18%;
+}
