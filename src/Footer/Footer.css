@@ -1,0 +1,13 @@
+* {
+    font-family: 'Assistant', sans-serif;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+    margin: .75em;
+}
+
+.footer {
+    background: transparent;
+}
