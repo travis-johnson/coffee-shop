@@ -2,8 +2,7 @@ import React from 'react';
 import './Content.css';
 
 const content = (props)=>{
-    return(
-        
+    return(       
 
 
         <div className="content">
