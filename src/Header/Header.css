@@ -1,8 +1,13 @@
 .header {
     font-family: 'Assistant', sans-serif;
-    position: absolute;
+    background-image: url('./img/header.jpeg');
+    background-position: center;
+    background-size: cover;
+    height: 45vh;
+    max-height: 800px;
+    max-width: 1920px;
+    background-repeat: no-repeat;
     width: 100%;
-    margin: 1em 0;
 }
 
 .navbar {
@@ -40,10 +45,9 @@
 
 .logo {
     padding: 1.5em;
-    color: #fff;
-    border: 3px solid #fff;
-    margin: 0 auto;
+    background: #fff;
     max-width: 300px;
+    letter-spacing: 5px;
 }
 
 

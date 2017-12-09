@@ -14,7 +14,7 @@ const header =()=>{
                     <div className="navbar-item"><a href="#menu">Menu</a></div>
                 </div>
                     <div className="logo has-text-centered">
-                        <h1 className="is-size-4-desktop is-size-5-touch">COFFEE SHOP</h1>
+                        <h1 className="is-size-4-desktop is-size-5-touch has-text-weight-bold">COFFEE SHOP</h1>
                     </div>
                 <div className="navbar-end has-text-centered">
                 <div className="navbar-item"><a href="#about">About</a></div>

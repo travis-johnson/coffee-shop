@@ -5,3 +5,7 @@
     position: absolute;
     top: 18%;
 }
+
+.shadow {
+    box-shadow: 6px 5px 18px #4a4a4a;
+}
