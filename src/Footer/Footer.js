@@ -26,7 +26,7 @@ const footer = (props)=>{
                     </div> 
 
                     <div className="level-item">
-                    <div>
+                    <div className="social-icons">
                         <img src={require("./img/twitter.svg")} alt="Twitter Logo"/>
                         <img src={require("./img/facebook.svg")} alt="Facebook Logo"/>
                         <img src={require("./img/instagram.svg")} alt="Instagram Logo"/>
